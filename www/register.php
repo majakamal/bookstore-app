@@ -1,6 +1,6 @@
 <?php
  
- $db = mysqli_connect("localhost", "root", "majakamal", "admin")
+ $db = mysqli_connect("localhost", "root", "majakamal", "bookstore")
 
 ?>
 
